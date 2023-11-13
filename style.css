@@ -26,6 +26,11 @@ h1 {
     font-size: 40px;
     margin: 0;
 }
+.walter {
+    height: 60px;
+    margin: 3px;
+    float: right;
+}
 .navigation {
     display: block;
     position: fixed;
