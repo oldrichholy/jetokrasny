@@ -1,4 +1,4 @@
 alert("Vítejte na stránce");
-let name = prompt("Zadejte jméno");
+let _name = prompt("Zadejte jméno");
 
-document.getElementById("header").innerHTML = `Ahoj ${name}`
+document.getElementById("header").innerHTML = `Ahoj ${_name}`
