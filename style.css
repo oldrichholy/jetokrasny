@@ -94,7 +94,7 @@ body, div, footer, th, td {
 }
 @keyframes example {
     0%   {background-color: red;}
-    20%  {background-color: rgb(255, 225, 0);}
+    20%  {background-color: yellow;}
     45%  {background-color: blue;}
     75%  {background-color: green;}
     100% {background-color: red;}
